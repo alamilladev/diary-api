@@ -1,1 +1,1 @@
-# Diary API
+# Diary API REST
